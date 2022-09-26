@@ -34,6 +34,10 @@
     margin-top: 50px;
 }
 
+.new{
+    text-decoration: none;
+}
+
 .icon:hover{
     text-shadow: 2px 2px 25px aqua;
     cursor: pointer;
